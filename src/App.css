@@ -25,7 +25,7 @@
 .item{
   flex:1;
 }
-img{
+.item img{
   width: 90%;
 }
 
