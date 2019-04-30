@@ -9,8 +9,10 @@ export default class Details extends React.Component {
             <div>
                 <Link to="/" > Back to HomePage </Link>
                 <h2>Project Page</h2>
-                <div>Project 1</div>
-                <div>Project 2</div>
+                <div className="container">
+                    <div className="item">UNIVERSITY ALUMNI PAGE</div>
+                    <div className="item">NON-PROFIT ORGANISATION WEBSITE</div>
+                </div>
             </div>
         );
     }
