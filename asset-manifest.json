@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/buketportfolio/static/css/main.fefeb3e8.chunk.css",
-    "main.js": "/buketportfolio/static/js/main.5be01df6.chunk.js",
-    "main.js.map": "/buketportfolio/static/js/main.5be01df6.chunk.js.map",
+    "main.css": "/buketportfolio/static/css/main.7bcee8ab.chunk.css",
+    "main.js": "/buketportfolio/static/js/main.fd5e9beb.chunk.js",
+    "main.js.map": "/buketportfolio/static/js/main.fd5e9beb.chunk.js.map",
     "runtime~main.js": "/buketportfolio/static/js/runtime~main.4dc2daf1.js",
     "runtime~main.js.map": "/buketportfolio/static/js/runtime~main.4dc2daf1.js.map",
-    "static/js/2.50beee22.chunk.js": "/buketportfolio/static/js/2.50beee22.chunk.js",
-    "static/js/2.50beee22.chunk.js.map": "/buketportfolio/static/js/2.50beee22.chunk.js.map",
+    "static/js/2.6c5815d7.chunk.js": "/buketportfolio/static/js/2.6c5815d7.chunk.js",
+    "static/js/2.6c5815d7.chunk.js.map": "/buketportfolio/static/js/2.6c5815d7.chunk.js.map",
     "index.html": "/buketportfolio/index.html",
-    "precache-manifest.fb847cd35dd323985f1a7ac7c9bd375b.js": "/buketportfolio/precache-manifest.fb847cd35dd323985f1a7ac7c9bd375b.js",
+    "precache-manifest.c40fbfdc95a45376f66176b3016cfda8.js": "/buketportfolio/precache-manifest.c40fbfdc95a45376f66176b3016cfda8.js",
     "service-worker.js": "/buketportfolio/service-worker.js",
-    "static/css/main.fefeb3e8.chunk.css.map": "/buketportfolio/static/css/main.fefeb3e8.chunk.css.map",
+    "static/css/main.7bcee8ab.chunk.css.map": "/buketportfolio/static/css/main.7bcee8ab.chunk.css.map",
+    "static/media/NPO_project.png": "/buketportfolio/static/media/NPO_project.3b5247ef.png",
+    "static/media/alumni_project.png": "/buketportfolio/static/media/alumni_project.2145145b.png",
     "static/media/buket_pic.jpg": "/buketportfolio/static/media/buket_pic.0d565507.jpg"
   }
 }
