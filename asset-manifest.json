@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/buketportfolio/static/css/main.584f321a.chunk.css",
-    "main.js": "/buketportfolio/static/js/main.d4d7d792.chunk.js",
-    "main.js.map": "/buketportfolio/static/js/main.d4d7d792.chunk.js.map",
+    "main.css": "/buketportfolio/static/css/main.98c6c980.chunk.css",
+    "main.js": "/buketportfolio/static/js/main.496b37c7.chunk.js",
+    "main.js.map": "/buketportfolio/static/js/main.496b37c7.chunk.js.map",
     "runtime~main.js": "/buketportfolio/static/js/runtime~main.4dc2daf1.js",
     "runtime~main.js.map": "/buketportfolio/static/js/runtime~main.4dc2daf1.js.map",
     "static/js/2.b41502e9.chunk.js": "/buketportfolio/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/buketportfolio/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/buketportfolio/index.html",
-    "precache-manifest.43796a62d85f23788a4c132a201e8f32.js": "/buketportfolio/precache-manifest.43796a62d85f23788a4c132a201e8f32.js",
+    "precache-manifest.de44f8f2a4c419e0efee925134b905d9.js": "/buketportfolio/precache-manifest.de44f8f2a4c419e0efee925134b905d9.js",
     "service-worker.js": "/buketportfolio/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/buketportfolio/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/buketportfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/main.98c6c980.chunk.css.map": "/buketportfolio/static/css/main.98c6c980.chunk.css.map",
+    "static/media/buket_pic.jpg": "/buketportfolio/static/media/buket_pic.0d565507.jpg"
   }
 }
