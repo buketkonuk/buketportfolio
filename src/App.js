@@ -1,23 +1,19 @@
 import React from 'react';
-import logo from './buket_pic.jpg';
 import './App.css';
+import HomePage from './HomePage.js';
+import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
+import Projects from "./Projects.js";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Buket Konuk-Hirst Personal Portfolio Page
-        </p>
-        <div>
-          <div>Home</div>
-          <div>Projects</div>
-          <div>gitHub</div>
-          <div>Contact</div>
-        </div>
-      </header>
-    </div>
+    <Router>
+      <div className="App">
+        <Switch>
+          <Route exact path="/" component={HomePage} />
+          <Route exact path="/projects" component={Projects}/>
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
