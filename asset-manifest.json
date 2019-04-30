@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/buketportfolio/static/css/main.f085776e.chunk.css",
+    "main.css": "/buketportfolio/static/css/main.e210e03f.chunk.css",
     "main.js": "/buketportfolio/static/js/main.496b37c7.chunk.js",
     "main.js.map": "/buketportfolio/static/js/main.496b37c7.chunk.js.map",
     "runtime~main.js": "/buketportfolio/static/js/runtime~main.4dc2daf1.js",
@@ -8,9 +8,9 @@
     "static/js/2.b41502e9.chunk.js": "/buketportfolio/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/buketportfolio/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/buketportfolio/index.html",
-    "precache-manifest.20ddfcb2ef2b528cdfd3aa530b2fc1b5.js": "/buketportfolio/precache-manifest.20ddfcb2ef2b528cdfd3aa530b2fc1b5.js",
+    "precache-manifest.21b46a1094211896578e23ce505b00b9.js": "/buketportfolio/precache-manifest.21b46a1094211896578e23ce505b00b9.js",
     "service-worker.js": "/buketportfolio/service-worker.js",
-    "static/css/main.f085776e.chunk.css.map": "/buketportfolio/static/css/main.f085776e.chunk.css.map",
+    "static/css/main.e210e03f.chunk.css.map": "/buketportfolio/static/css/main.e210e03f.chunk.css.map",
     "static/media/buket_pic.jpg": "/buketportfolio/static/media/buket_pic.0d565507.jpg"
   }
 }
