@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Buket Konuk-Hirst Personal Portfolio Page.
+          Buket Konuk-Hirst Personal Portfolio Page
         </p>
         <div>
           <div>Home</div>
