@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/buketportfolio/static/css/main.7bcee8ab.chunk.css",
+    "main.css": "/buketportfolio/static/css/main.b2646c00.chunk.css",
     "main.js": "/buketportfolio/static/js/main.d636ca81.chunk.js",
     "main.js.map": "/buketportfolio/static/js/main.d636ca81.chunk.js.map",
     "runtime~main.js": "/buketportfolio/static/js/runtime~main.4dc2daf1.js",
@@ -8,9 +8,9 @@
     "static/js/2.6c5815d7.chunk.js": "/buketportfolio/static/js/2.6c5815d7.chunk.js",
     "static/js/2.6c5815d7.chunk.js.map": "/buketportfolio/static/js/2.6c5815d7.chunk.js.map",
     "index.html": "/buketportfolio/index.html",
-    "precache-manifest.b5dbe07fc39608014016c8fc71aa31ba.js": "/buketportfolio/precache-manifest.b5dbe07fc39608014016c8fc71aa31ba.js",
+    "precache-manifest.ca85ca5cd8119d1f6c21ab13da79e612.js": "/buketportfolio/precache-manifest.ca85ca5cd8119d1f6c21ab13da79e612.js",
     "service-worker.js": "/buketportfolio/service-worker.js",
-    "static/css/main.7bcee8ab.chunk.css.map": "/buketportfolio/static/css/main.7bcee8ab.chunk.css.map",
+    "static/css/main.b2646c00.chunk.css.map": "/buketportfolio/static/css/main.b2646c00.chunk.css.map",
     "static/media/NPO_project.png": "/buketportfolio/static/media/NPO_project.3b5247ef.png",
     "static/media/alumni_project.png": "/buketportfolio/static/media/alumni_project.2145145b.png",
     "static/media/buket_pic.jpg": "/buketportfolio/static/media/buket_pic.0d565507.jpg"
