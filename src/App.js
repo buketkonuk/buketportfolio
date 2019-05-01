@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import HomePage from './HomePage.js';
-import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
+import { Switch, Route, HashRouter as Router } from 'react-router-dom';
 import Projects from "./Projects.js";
 
 
@@ -9,7 +9,7 @@ function App() {
 
   return (
     
-    <Router>
+    <Router basename="/buketkonuk.github.io/buketportfolio">
       <div className="App">
         <Switch>
           <Route exact path="/" component={HomePage} />

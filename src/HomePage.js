@@ -9,7 +9,7 @@ export default class Details extends React.Component {
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
                     <p>
-                        Buket Konuk-Hirst Personal Portfolio Page
+                        Buket Konuk-Hirst Portfolio Page
                     </p>
                         <div>
                             <div><Link to='/'>Home</Link></div>
