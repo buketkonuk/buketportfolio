@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 0;
 }
 
 .App-logo {
@@ -61,5 +62,13 @@
 
 .topnav-right {
   float: right;
+}
+.about {
+    background-image: url("./computer01.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 

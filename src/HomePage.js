@@ -6,20 +6,24 @@ export default class Details extends React.Component {
 
     render() {
         return (
-            <header className="App-header">
-                <div class="topnav">
-                    <a class="active" href="#home">About me</a>
-                    <a href="#news">Projects</a>
-                    <a href="#contact">Contact</a>
-                    <div class="topnav-right">
-                        <a href="#search">gitHub</a>
-                        <a href="#about">LinkedIn</a>
-                    </div>
+<div>
+            <div className="topnav">
+                <a className="active" href="#home">About me</a>
+                <a href="#news">Projects</a>
+                <a href="#contact">Contact</a>
+                <div className="topnav-right">
+                    <a href="#search">gitHub</a>
+                    <a href="#about">LinkedIn</a>
                 </div>
-                <img src={logo} className="App-logo" alt="logo" />
+            </div>
+            <section className="about">
+                <h1>About me</h1>
+            </section>
+            <header className="App-header">
                 <p>
-                    Buket Konuk-Hirst Portfolio Page
+                    Welcome to Buket Konuk-Hirst Portfolio Page
                     </p>
+                <img src={logo} className="App-logo" alt="logo" />
                 <div className="navigation">
                     <div><Link to='/'>Home</Link></div>
                     <div><Link to='/projects'>Projects</Link></div>
@@ -31,6 +35,7 @@ export default class Details extends React.Component {
                     <div><Link to='/contact'>Contact</Link></div>
                 </div>
             </header>
+            </div>
         );
     }
 }
