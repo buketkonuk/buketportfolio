@@ -9,7 +9,8 @@ function App() {
 
   return (
     
-    <Router basename="/buketkonuk.github.io/buketportfolio">
+    // <Router basename="/buketkonuk.github.io/buketportfolio">
+    <Router>
       <div className="App">
         <Switch>
           <Route exact path="/" component={HomePage} />

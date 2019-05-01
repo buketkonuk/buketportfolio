@@ -32,5 +32,10 @@
   width: 100%;
   height: auto;
 }
+.projHeading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: darkslategrey;
+}
 
 
