@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76ee003de46d658b4b286565800a09e4",
+    "revision": "96cc01e4e4e255f8261b92d37ce6e663",
     "url": "/buketportfolio/index.html"
   },
   {
-    "revision": "9af803c74ff9e17347ed",
-    "url": "/buketportfolio/static/css/main.b2646c00.chunk.css"
+    "revision": "5f533f61c52f734e8e8a",
+    "url": "/buketportfolio/static/css/main.84fb7f94.chunk.css"
   },
   {
-    "revision": "2883513f39be548ada40",
-    "url": "/buketportfolio/static/js/2.6c5815d7.chunk.js"
+    "revision": "a1690dedcc18ac9303e2",
+    "url": "/buketportfolio/static/js/2.965ce7d3.chunk.js"
   },
   {
-    "revision": "9af803c74ff9e17347ed",
-    "url": "/buketportfolio/static/js/main.d636ca81.chunk.js"
+    "revision": "5f533f61c52f734e8e8a",
+    "url": "/buketportfolio/static/js/main.4b00bea0.chunk.js"
   },
   {
     "revision": "425aff3e557adaadbd19",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buketportfolio/static/media/NPO_project.3b5247ef.png"
   },
   {
-    "revision": "2145145b5a821702063bbf7a32a9eca8",
-    "url": "/buketportfolio/static/media/alumni_project.2145145b.png"
+    "revision": "8f54cda6dc9339ffc41d1dbefaf2c93a",
+    "url": "/buketportfolio/static/media/alumni_project.8f54cda6.png"
   },
   {
     "revision": "0d565507d7863417be953a2255ff4b85",
