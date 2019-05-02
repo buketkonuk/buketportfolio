@@ -3,13 +3,14 @@ import { Link } from 'react-router-dom';
 import alumni from "./alumni_project.png";
 import npo from "./NPO_project.png";
 import kodflix from "./Kodflix.png";
+import "./Projects.css";
 
 export default class Details extends React.Component {
 
     render() {
         return (
             <div>
-                <Link to="/" > Back to HomePage </Link>
+                {/* <Link to="/" > Back to HomePage </Link> */}
                 <h2>Projects I have completed</h2>
                 <div className="container">
                     <div className="item">

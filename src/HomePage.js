@@ -1,10 +1,14 @@
 import React from 'react';
-import aboutImg from "./buket_deer01.jpg"
+import Projects from "./Projects/Projects.js";
+import { HashRouter as Router, Link, Switch, Route } from 'react-router-dom';
+import Main from "./Main.js"
+// import aboutImg from "./buket_deer01.jpg"
 
 export default class Details extends React.Component {
 
     render() {
         return (
+          <Router>
 <div class="wrapper">
   <header class="page-header">
     <nav>
@@ -14,25 +18,24 @@ export default class Details extends React.Component {
           <a href="">About me</a>
         </li>
         <li>
-          <a href="">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/buketkonuk/" target='_blank' rel="noopener noreferrer">LinkedIn</a>
         </li>
         <li>
-          <a href="">GitHub</a>
+          <a href="https://github.com/buketkonuk" target='_blank' rel="noopener noreferrer">GitHub</a>
         </li>
         <li>
-          <a href="">Projects</a>
+        <Link to='/projects'>Projects</Link>
         </li>
       </ul>
-      <button class="cta-contact">Contact</button>
+      <button class="cta-contact" ><a href="mailto:bukikir@gmail.com">Contact</a></button>
     </nav>
   </header>
-  <main class="page-main">
-    <div>
-      <h1>Web Developer</h1>
-      <p>welcome to my personal page, I am a web Developer from London, specialising in JavaScript and React.js</p>
-      <p>Have a look at my Projects portfolio</p>
-    </div>
-  </main>
+  <Switch>
+  <Route exact path="/" component={Main} />
+
+<Route exact path="/Projects" component={Projects} />
+</Switch>
+
   <footer class="page-footer">
     <small>© Copyright 2019. All rights reserved.</small>
     <ul>
@@ -60,6 +63,7 @@ export default class Details extends React.Component {
     
   </footer>
 </div>
+</Router>
         );
     }
 }
