@@ -1,41 +1,65 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import logo from './buket_pic.jpg';
+import aboutImg from "./buket_deer01.jpg"
 
 export default class Details extends React.Component {
 
     render() {
         return (
-<div>
-            <div className="topnav">
-                <a className="active" href="#home">About me</a>
-                <a href="#news">Projects</a>
-                <a href="#contact">Contact</a>
-                <div className="topnav-right">
-                    <a href="#search">gitHub</a>
-                    <a href="#about">LinkedIn</a>
-                </div>
-            </div>
-            <section className="about">
-                <h1>About me</h1>
-            </section>
-            <header className="App-header">
-                <p>
-                    Welcome to Buket Konuk-Hirst Portfolio Page
-                    </p>
-                <img src={logo} className="App-logo" alt="logo" />
-                <div className="navigation">
-                    <div><Link to='/'>Home</Link></div>
-                    <div><Link to='/projects'>Projects</Link></div>
-                    <div>
-                        <a href="https://github.com/buketkonuk" target='_blank' rel="noopener noreferrer">
-                            gitHub
-                                </a>
-                    </div>
-                    <div><Link to='/contact'>Contact</Link></div>
-                </div>
-            </header>
-            </div>
+<div class="wrapper">
+  <header class="page-header">
+    <nav>
+      <h2 class="logo">BUKET KONUK-HIRST</h2>
+      <ul>
+        <li>
+          <a href="">About me</a>
+        </li>
+        <li>
+          <a href="">LinkedIn</a>
+        </li>
+        <li>
+          <a href="">GitHub</a>
+        </li>
+        <li>
+          <a href="">Projects</a>
+        </li>
+      </ul>
+      <button class="cta-contact">Contact</button>
+    </nav>
+  </header>
+  <main class="page-main">
+    <div>
+      <h1>Web Developer</h1>
+      <p>welcome to my personal page, I am a web Developer from London, specialising in JavaScript and React.js</p>
+      <p>Have a look at my Projects portfolio</p>
+    </div>
+  </main>
+  <footer class="page-footer">
+    <small>© Copyright 2019. All rights reserved.</small>
+    <ul>
+      <li>
+        <a href="" target="_blank">
+          <i class="icon ion-logo-facebook"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" target="_blank">
+          <i class="icon ion-logo-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" target="_blank">
+          <i class="icon ion-logo-linkedin"></i>
+        </a>
+      </li>
+      <li>
+        <a href="" target="_blank">
+          <i class="icon ion-logo-github"></i>
+        </a>
+      </li>
+    </ul>
+    
+  </footer>
+</div>
         );
     }
 }
