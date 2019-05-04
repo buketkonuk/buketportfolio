@@ -15,7 +15,7 @@ export default class Details extends React.Component {
       <h2 class="logo">BUKET KONUK-HIRST</h2>
       <ul>
         <li>
-          <a href="">About me</a>
+          <a href="/">About me</a>
         </li>
         <li>
           <a href="https://www.linkedin.com/in/buketkonuk/" target='_blank' rel="noopener noreferrer">LinkedIn</a>
@@ -40,23 +40,18 @@ export default class Details extends React.Component {
     <small>© Copyright 2019. All rights reserved.</small>
     <ul>
       <li>
-        <a href="" target="_blank">
-          <i class="icon ion-logo-facebook"></i>
+        <a href="https://twitter.com/KonukBuket" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-twitter"></i>
         </a>
       </li>
       <li>
-        <a href="" target="_blank">
-          <i class="icon ion-logo-twitter"></i>
+        <a href="https://www.linkedin.com/in/buketkonuk/" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
       <li>
-        <a href="" target="_blank">
-          <i class="icon ion-logo-linkedin"></i>
-        </a>
-      </li>
-      <li>
-        <a href="" target="_blank">
-          <i class="icon ion-logo-github"></i>
+        <a href="https://github.com/buketkonuk" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-github"></i>
         </a>
       </li>
     </ul>
